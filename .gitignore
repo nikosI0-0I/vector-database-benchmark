@@ -1,0 +1,28 @@
+# Environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env.local
+
+# Databases and data
+data/raw/
+*.db
+*.sqlite3
+
+# Benchmarks
+benchmarks/results/*.json
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

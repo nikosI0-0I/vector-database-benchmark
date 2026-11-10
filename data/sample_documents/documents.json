@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "doc_001",
+    "category": "technology",
+    "content": "PostgreSQL is a powerful, open-source object-relational database system known for reliability, feature robustness, and performance.",
+    "metadata": {"author": "Database Group", "year": 2024}
+  },
+  {
+    "doc_id": "doc_002",
+    "category": "technology",
+    "content": "pgvector is an open-source extension for PostgreSQL that enables vector similarity search using IVFFlat and HNSW indexing techniques.",
+    "metadata": {"author": "Andrew Kane", "year": 2024}
+  },
+  {
+    "doc_id": "doc_003",
+    "category": "technology",
+    "content": "Qdrant is a vector database and vector search engine written in Rust, offering fast nearest neighbor search with payload filtering.",
+    "metadata": {"author": "Qdrant Team", "year": 2024}
+  },
+  {
+    "doc_id": "doc_004",
+    "category": "technology",
+    "content": "Hierarchical Navigable Small World (HNSW) graphs are state-of-the-art data structures for approximate nearest neighbor search in high dimensions.",
+    "metadata": {"author": "Malkov and Yashunin", "year": 2018}
+  },
+  {
+    "doc_id": "doc_005",
+    "category": "finance",
+    "content": "Algorithmic trading leverages quantitative statistical models to execute orders at high frequencies and optimal execution prices.",
+    "metadata": {"author": "Quant Research", "year": 2023}
+  },
+  {
+    "doc_id": "doc_006",
+    "category": "finance",
+    "content": "Decentralized finance (DeFi) platforms utilize smart contracts on public blockchains to enable lending, borrowing, and asset exchange without intermediaries.",
+    "metadata": {"author": "Fintech Review", "year": 2024}
+  },
+  {
+    "doc_id": "doc_007",
+    "category": "healthcare",
+    "content": "Deep learning models are increasingly deployed in diagnostic radiology to identify pulmonary nodules and cardiovascular abnormalities from CT scans.",
+    "metadata": {"author": "Medical AI Lab", "year": 2023}
+  },
+  {
+    "doc_id": "doc_008",
+    "category": "healthcare",
+    "content": "CRISPR-Cas9 gene editing allows researchers to alter DNA sequences and gene function with high precision for therapeutics development.",
+    "metadata": {"author": "Biotech Institute", "year": 2022}
+  },
+  {
+    "doc_id": "doc_009",
+    "category": "aerospace",
+    "content": "Reusable rocket boosters utilize autonomous grid fins, cold gas thrusters, and supersonic retropropulsion to land safely on drone ships.",
+    "metadata": {"author": "Propulsion Engineering", "year": 2024}
+  },
+  {
+    "doc_id": "doc_010",
+    "category": "aerospace",
+    "content": "Low Earth orbit satellite constellations provide global low-latency broadband internet access by employing inter-satellite optical laser links.",
+    "metadata": {"author": "Satellite Systems", "year": 2024}
+  }
+]
